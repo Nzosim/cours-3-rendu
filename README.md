@@ -1,3 +1,11 @@
+# Rendu TP Automatisation du developpement - Test - Rendu 3
+  Projet réalisé par :
+  - Enzo SIMONIN
+  - Jules HOLDER
+  - Clément GROMANGIN
+
+  En classe de S5 ADWM-1
+
 # TP Automatisation du developpement - Test - Rendu 3
 
 Mini projet pour le rendu numéro 3 du cours d'automatisation du développement sur les tests.
